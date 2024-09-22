@@ -29,4 +29,5 @@ Make sure you have the following installed:
 
 4. **To run the script**:
    ```bash
-   Simply start npm start command
+   cd .. =>  cd <your-repo-directory>
+   Simply run:  npm start 
